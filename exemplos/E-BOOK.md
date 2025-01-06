@@ -6,8 +6,8 @@ Este e-book de 6 páginas explana brevemente as capacidades e os desafios do uso
 
 ## 🤖 Tecnologias Utilizadas
 -► Roteiro: IA Generativa **[ChatGPT](https://chat.openai.com)**;
--► Arte Visual: IA Generativa **[Copilot AI](https://copilot.microsoft.com/))**;
-- Ferramenta **Microsoft Office** para edição final.
+-► Arte Visual: IA Generativa **[Copilot AI](https://copilot.microsoft.com/)**;
+-► Ferramenta **Microsoft Office** para edição final.
 
 ## 🧐 Processo de Criação
 Foi utilizado "ChatGPT" para gerar a pesquisa sobre IAs Generativas e Tratamento de Doenças, estruturar o conteúdo e refinar as ideias. Por outro lado, o "Copilot AI" foi usado para gerar a Imagem de capa para o nosso e-book. Para concluir, a edição final do texto foi feita no Microsoft Word, por ser uma ferramenta especifica para edição de texto.
