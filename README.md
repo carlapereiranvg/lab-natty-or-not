@@ -1,8 +1,11 @@
 # E-Book: A IA Generativa e o Tratamento de Doenças: Contribuições e Desafios
+# Podcast: A IA Generativa e o Tratamento de Doenças: Contribuições e Desafios
 
 
 ## 📒 Descrição
-Este e-book de 6 páginas explana brevemente as capacidades e os desafios do uso da IA Generativa na area da saúde e Tratamento de Doenças, assim como seus avanços e resultados.
+Para mostrar a capacidade de geração de informação foram criados contéudos referentes ao assunto, assim como um podcast resumido, como opção para quem prefere conteúdo em audio.
+O e-book de 6 páginas explana brevemente as capacidades e os desafios do uso da IA Generativa na area da saúde e Tratamento de Doenças, assim como seus avanços e resultados.
+Ja o Podcast foi resumido para encapsular o tema todo do e-book em 05:54 min.
 
 ## 🤖 Tecnologias Utilizadas
 
