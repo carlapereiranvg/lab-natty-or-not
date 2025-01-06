@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# E-Book: A IA Generativa e o Tratamento de Doenças: Contribuições e Desafios
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 6 páginas explana brevemente as capacidades e os desafios do uso da IA Generativa na area da saúde e Tratamento de Doenças, assim como seus avanços e resultados.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+-► Roteiro: IA Generativa **[ChatGPT](https://chat.openai.com)**;
+-► Arte Visual: IA Generativa **[Copilot AI](https://copilot.microsoft.com/)**;
+-► Ferramenta **Microsoft Office** para edição final.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi utilizado "ChatGPT" para gerar a pesquisa sobre IAs Generativas e Tratamento de Doenças, estruturar o conteúdo e refinar as ideias. Por outro lado, o "Copilot AI" foi usado para gerar a Imagem de capa para o nosso e-book. Para concluir, a edição final do texto foi feita no Microsoft Word, por ser uma ferramenta especifica para edição de texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo de leitura rapida e visualmente atrativo, direto ao ponto e com informação clara, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[[IA_Generativa_Saude.pdf](https://github.com/carlapereiranvg/lab-natty-or-not/blob/main/IA_Generativa_Saude.pdf)]()
 
-### Exemplos e Insigths
+## 💭 Reflexão
+Criar este e-book foi excelente modo de treinar o uso da uma IA generativa na criação de conteúdo útil.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
