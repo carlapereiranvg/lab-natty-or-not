@@ -15,7 +15,7 @@ Foi utilizado "ChatGPT" para gerar a pesquisa sobre IAs Generativas e Tratamento
 ## 🚀 Resultados
 O e-book apresenta um conteúdo de leitura rapida e visualmente atrativo, direto ao ponto e com informação clara, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[IA_Generativa_Saude.pdf]()
+[[IA_Generativa_Saude.pdf](https://github.com/carlapereiranvg/lab-natty-or-not/blob/main/IA_Generativa_Saude.pdf)]()
 
 ## 💭 Reflexão
 Criar este e-book foi excelente modo de treinar o uso da uma IA generativa na criação de conteúdo útil.
