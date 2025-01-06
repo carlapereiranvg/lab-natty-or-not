@@ -1,18 +1,19 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# E-Book: A IA Generativa e o Tratamento de Doenças: Contribuições e Desafios
+
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 6 páginas explana brevemente as capacidades e os desafios do uso da IA Generativa na area da saúde e Tratamento de Doenças, assim como seus avanços e resultados.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+-► Roteiro: IA Generativa **[ChatGPT](https://chat.openai.com)**;
+-► Arte Visual: IA Generativa **[Copilot AI](https://copilot.microsoft.com/))**;
+- Ferramenta **Microsoft Office** para edição final.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Foi utilizado "ChatGPT" para gerar a pesquisa sobre IAs Generativas e Tratamento de Doenças, estruturar o conteúdo e refinar as ideias. Por outro lado, o "Copilot AI" foi usado para gerar a Imagem de capa para o nosso e-book. Para concluir, a edição final do texto foi feita no Microsoft Word, por ser uma ferramenta especifica para edição de texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo de leitura rapida e visualmente atrativo, direto ao ponto e com informação clara, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
 [LINK PARA O E-BOOK AQUI]()
 
